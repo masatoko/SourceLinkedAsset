@@ -1,0 +1,18 @@
+{
+    "name": "com.tenkaigames.source-linked-asset",
+    "version": "1.0.0",
+    "displayName": "Source Linked Asset",
+    "description": "Link external source files to Unity assets and reimport them with a single click.",
+    "unity": "6000.3",
+    "documentationUrl": "https://github.com/masatoko/SourceLinkedAsset/",
+    "changelogUrl": "https://github.com/masatoko/SourceLinkedAsset/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/masatoko/SourceLinkedAsset/blob/main/LICENSE",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.2"
+    },
+    "keywords": [],
+    "author": {
+        "name": "masatoko (TenkaiGames)",
+        "url": "https://tenkaigames.com"
+    }
+}
